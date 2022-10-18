@@ -1,9 +1,12 @@
 # React load users from API
 
-[Demo](https://incomparable-elf-b9dadd.netlify.app/)
+[Live Demo](https://incomparable-elf-b9dadd.netlify.app/)
+
+![image](https://user-images.githubusercontent.com/113940871/196541653-651a5459-a7b8-488c-85f7-ed9eb48c0ee1.png)
+
 
 ## The Prompt:
-### /* 
+### 
   Implement a button which makes a get request to https://reqres.in/ to get a list of users and display them.
   100% free reign to accomplish this goal however you wish, within the context of react.
 
@@ -16,4 +19,4 @@
           Update the displayed users excluding the deleted user.
 
   Bonus 2: Make a filter box to filter the displayed users by name.
-*/
+
