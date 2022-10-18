@@ -52,7 +52,7 @@ const clickHandler = () =>{
           <div key={user.id} className='user'>
             <button style={{position:'absolute',top:0,right:0}} onClick={()=>removeHandler(user.id)}>&times;</button>
             <div className='user-header'>
-              <div className='user-name'>Hello, I'm {`${user.first_name} ${user.last_name}`}</div>
+              <div className='user-name'>Hi, I'm {`${user.first_name} ${user.last_name}`}</div>
               
             </div>
             <div className='user-body'>
